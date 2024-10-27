@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Shiladityagit
-- 👀 I’m interested in AI-ML and DSA.
-- 🌱 I’m currently doing B.Tech. in ECE at NIT ROURKELA.
-
 <h1 align="center">Hi 👋, I'm Shiladitya Mondal</h1>
 <h3 align="center">A passionate AI-ML engineer</h3>
 
