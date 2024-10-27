@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiladityagit&label=Profile%20views&color=0e75b6&style=flat" alt="shiladityagit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiladityagit" alt="shiladityagit" /></a> </p>
+- 👋 Hi, I’m @Shiladityagit
+
+- 🌱 I’m currently doing B.Tech. in ECE at NIT ROURKELA.
 
 - 🔭 I’m currently working on **Cryptex**
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Python, Machine Learning, Artificial Intelligence**
-
-- 📫 How to reach me **shiladityam178@gmail.com**
+- 👀 I’m interested in AI-ML and DSA.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
