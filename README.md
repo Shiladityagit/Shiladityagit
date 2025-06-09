@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shiladitya Mondal</h1>
-<h3 align="center">A passionate AI and Machine Learning Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shiladityagit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
